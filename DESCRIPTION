@@ -1,0 +1,13 @@
+Package: LetterGame
+Type: Package
+Title: Generate Words Using 7 Letters
+Version: 0.1.2
+Date: 2023-01-27
+Author: Rebecca Godard
+Maintainer: Rebecca Godard <rebecca.godard@ubc.ca>
+Description: Come up with as many words as you can using only 7 letters. 
+Depends: R (>= 3.5.0)
+LazyLoad: yes
+LazyData: yes
+License: GPL (>= 2)
+NeedsCompilation: no
